@@ -1,0 +1,1 @@
+# yandexalgo6
